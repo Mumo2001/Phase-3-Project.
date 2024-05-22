@@ -26,13 +26,13 @@ predictive retention strategies that will enhance customer satisfaction.
    Provide practical suggestions to Syria Tel to help retain their customers.
 
 # TABLE OF CONTENT.
-1 .Data Preparation.
+1. Data Preparation.
 2. Data Cleaning.
-3 .Exploratory Data Analysis and Statistical Analysis.
-4 .Modeling.
-5 .Model Evaluation.
-6 .Conclusions.
-7 .Recommendations.
+3. Exploratory Data Analysis and Statistical Analysis.
+4. Modeling.
+5. Model Evaluation.
+6. Conclusions.
+7. Recommendations.
 
 ## Model Evaluation Results.
 The Logistic Regression after balancing the dataset and after hypertuning had more powerful prediction power compared to the K-Nearest Neighbours.
